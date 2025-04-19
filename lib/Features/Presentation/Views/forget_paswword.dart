@@ -1,9 +1,9 @@
 import 'package:dashboard/Features/Presentation/Constants/Text_Style_Manger.dart';
-import 'package:dashboard/Features/Presentation/Widgets/Sign_In/Custom_Button.dart';
+import 'package:dashboard/Features/Presentation/Widgets/Sign_In&Forget_password/Custom_Button.dart';
 import 'package:flutter/material.dart';
 
 import '../Constants/Color_Manager.dart';
-import '../Widgets/Sign_In/CustomText_form_field.dart';
+import '../Widgets/Sign_In&Forget_password/CustomText_form_field.dart';
 
 class ForgetPaswword extends StatefulWidget {
   const ForgetPaswword({super.key});

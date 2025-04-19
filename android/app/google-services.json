@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "830177900227",
+    "project_id": "campus-trade1",
+    "storage_bucket": "campus-trade1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830177900227:android:c79954b5c8ec1855941476",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830177900227-ne2arpmle71evrgejdf5rg4m3peih734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLlgzAV9XVt4mGwqR6sNg9nr34x_oz9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830177900227-ne2arpmle71evrgejdf5rg4m3peih734.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830177900227-0vpntvmc547p0v4oo5uh4bjurqrleeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.depi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830177900227:android:32a21776f56b8003941476",
+        "android_client_info": {
+          "package_name": "com.example.depi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830177900227-ne2arpmle71evrgejdf5rg4m3peih734.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLlgzAV9XVt4mGwqR6sNg9nr34x_oz9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830177900227-ne2arpmle71evrgejdf5rg4m3peih734.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830177900227-0vpntvmc547p0v4oo5uh4bjurqrleeef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.depi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
