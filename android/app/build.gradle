@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.depi"
+    namespace = "com.example.dashboard"
     compileSdk 35
     ndkVersion = "27.0.12077973"
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.depi"
+        applicationId = "com.example.dashboard"
         buildToolsVersion = "33.0.0"
         minSdk = 23
         targetSdk = 33
